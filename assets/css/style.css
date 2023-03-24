@@ -1,0 +1,60 @@
+* {
+    background-color: rgb(59, 58, 59);
+}
+
+header{
+    text-align: center;
+    margin: 10px;
+    border: 4px solid red;
+    margin: 1px;
+}
+
+header h1{
+
+}
+
+header p{
+
+}
+
+main{
+    display: flex;
+    margin: 10px;
+    border: 4px solid purple;
+    margin: 1px;
+}
+
+footer{
+    text-align: center;
+    margin: 10px;
+    border: 4px solid blue;
+    margin: 1px;
+}
+
+.card{
+    width: 30%;
+    flex-wrap: wrap;
+    border: 4px solid blueviolet;
+    margin: 1px;
+}
+
+.codetext{
+    color:rgb(251, 240, 255)
+}
+
+div{
+    margin: 1px;
+    border: 4px solid slateblue;
+}
+
+h1, h2, h4 {
+    color: rgb(238, 85, 238);
+}
+
+header p{
+    color:rgb(251, 240, 255)
+}
+
+main p{
+    color:rgb(207, 56, 207)
+}
